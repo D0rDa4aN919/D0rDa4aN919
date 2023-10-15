@@ -1,0 +1,20 @@
+#sider {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  width: 45%; /* Adjust the width as needed */
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.one_side {
+  float: right;
+}
+
+.second_side {
+  float: left;
+}
