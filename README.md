@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badgesTagsGithub-->
-<p id="badgesTagsGithub">
+<p id="badgesTagsGithub" align="center">
   <img src="https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated" alt="GitHub last commit">
   <img src="https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars" alt="GitHub stars">
