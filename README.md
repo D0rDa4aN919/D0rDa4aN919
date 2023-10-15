@@ -1,1 +1,1 @@
-[docs](./docs/index.html)
+![docs](./docs/readme.html)
