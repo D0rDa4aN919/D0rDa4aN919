@@ -17,9 +17,9 @@
     <!--END_SECTION:badgesTagsGithub-->
     <div id="sider">
         <!--START_SECTION:Explain-->
-        <div id="about_me" align="center" class="container one_side" style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc; margin: 10px; box-sizing: border-box;">
+        <div id="about_me" align="center">
           <details open>
-            <summary><h2>👉 About Me 👈</h2></summary>
+            <summary><h2 align="center">👉 About Me 👈</h2></summary>
             <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
             Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. 
             Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
@@ -28,36 +28,42 @@
         </div>
         <!--END_SECTION:Explain-->
         <!--START_SECTION:badgesTagsLang-->
-        <div id="techskill" align="center" class="container one_side" style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc; margin: 10px; box-sizing: border-box;">
-            <h2>🧑‍💻 Technical Skills 🧑‍💻</h2>
-            <p id="TechnicalSkill">
-                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-                <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-            </p>
+        <div id="techskill" align="center">
+            <details open>
+                <summary><h2 align="center">🧑‍💻 Technical Skills 🧑‍💻</h2></summary>
+                <p id="TechnicalSkill">
+                    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+                    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+                    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+                    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+                </p>
+            </details>
         </div>
         <!--END_SECTION:badgesTagsLang-->
         <!--START_SECTION:askMe-->
         <div id="ask_me" class="container second_side">
-            <h2 align="center">💬 Ask Me 💬</h2>
-            <p id="askMe"> 
-            <ul>
-                <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
-                <li>About Cyber-Security: Which protection.</li>
-            </ul>
-            </p>
+            <details open>
+                <summary><h2 align="center">💬 Ask Me 💬</h2></summary>
+                <p id="askMe"> 
+                <ul>
+                    <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
+                    <li>About Cyber-Security: Which protection.</li>
+                </ul>
+                </p>
+            </details>
         </div>
         <!--END_SECTION:askMe-->
         <!--START_SECTION:Blog-->
         <div id="blog" class="container second_side">
-            <h2 align="center">📖 Blog Posts 📖</h2>
-            <!-- https://medium.com/@dordaha491n/feed -->
-            <p id="my_blog">My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a><br>
-            <ul>
-                <li>About Cyber-Security: How to use python for Cyber-Secuirty.</li>
-            </ul>
-            </p>
+            <details open>
+                <summary><h2 align="center">📖 Blog Posts 📖</h2></summary>
+                <!-- https://medium.com/@dordaha491n/feed -->
+                <p id="my_blog">My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a><br>
+                <ul>
+                    <li>About Cyber-Security: How to use python for Cyber-Secuirty.</li>
+                </ul>
+                </p>
+            </details>    
         </div>
         <!--END_SECTION:Blog-->
         <!--START_SECTION:reach-->
