@@ -15,7 +15,7 @@
         </p>
     </div>
     <!--END_SECTION:badgesTagsGithub-->
-    <div id="sider">
+    <div id="main">
         <!--START_SECTION:Explain-->
         <div id="about_me" align="center">
           <details open>
@@ -40,19 +40,39 @@
             </details>
         </div>
         <!--END_SECTION:badgesTagsLang-->
-        <!--START_SECTION:askMe-->
-        <div id="ask_me">
+        <!--START_SECTION:Certificates-->
+        <div id="certificates_div" align="center">
             <details open>
-                <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
-                <p id="askMe"> 
-                <ul>
-                    <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
-                    <li>About Cyber-Security: Which protection.</li>
-                </ul>
+                <summary align="center"><h2 align="center">🎓 Certificates & Trainings 🎓</h2></summary>
+                <p id="certificates">
+                    <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
+                    <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
+                    <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
                 </p>
             </details>
         </div>
-        <!--END_SECTION:askMe-->
+        <!--END_SECTION:Certificates-->
+        <!--START_SECTION:reach-->
+        <div id="reach_me">
+            <details open>
+                <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
+                <p>You can reach me at:</p>
+                <ol>
+                    <il>LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
+                    <il>X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
+                </ol>
+            </details>
+        </div>
+        <!--END_SECTION:reach-->
+        <!--START_SECTION:Statistics-->
+        <div id="statistics_div" align="center">
+            <details open>
+                <summary align="center"><h2 align="center">📊 Statistics 📊</h2></summary>
+                <a href="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" alt="D0rDa4aN919's github stats"></a>
+                <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" alt="D0rDa4aN919's github stats"></a>
+            </details>
+        </div>
+        <!--END_SECTION:Statistics-->
         <!--START_SECTION:Blog-->
         <div id="blog">
             <details open>
@@ -66,26 +86,44 @@
             </details>    
         </div>
         <!--END_SECTION:Blog-->
-        <!--START_SECTION:reach-->
-        <div id="reach_me">
+        <!--START_SECTION:currently-->
+        <div id="working_repositories" >
             <details open>
-                <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
-                <ol>
-                    <il>LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
-                    <il>X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
-                </ol>
+                <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
+                <p id="workingrepositories">I'm currently working on project of cyber-security tools and POCs.</p>
             </details>
         </div>
-        <!--END_SECTION:reach-->
+        <!--END_SECTION:currently-->
+        <!--START_SECTION:recently-->
+        <div id="My_Repositories">
+            <details open>
+                <summary align="center"><h2 align="center">👨‍💻 My Repositories 👨‍💻</h2></summary>
+                <p id="MyRepositories">I created recently those repositories:</p>
+            </details>
+        </div>
+        <!--END_SECTION:recently-->
+        <!--START_SECTION:repositories-->
+        <div id="last_repositories">
+            <details open>
+                <summary align="center"><h2 align="center">⭐ Latest Repositories ⭐</h2></summary>
+                <p id="lastrepositories">Latest repositories I starred:</p>
+            </details>
+        </div>
+        <!--END_SECTION:repositories-->
+        <!--START_SECTION:askMe-->
+        <div id="ask_me">
+            <details open>
+                <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
+                <p id="askMe"> 
+                <ul>
+                    <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
+                    <li>About Cyber-Security: Which protection.</li>
+                </ul>
+                </p>
+            </details>
+        </div>
+        <!--END_SECTION:askMe-->
     </div>
-    <!--START_SECTION:currently-->
-    <div id="repositories" >
-        <details open>
-            <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
-            <p id="repositories">I'm currently working on project of cyber-security tools and POCs.</p>
-        </details>
-    </div>
-    <!--END_SECTION:currently-->
     <!--START_SECTION:Latest-->
     <!-- need to add -->
     <!-- <div id="certificates_div" align="center">
@@ -93,44 +131,5 @@
         <p>Latest releases I contributed to:</p>
     </div> -->
     <!--END_SECTION:Latest-->
-    <!--START_SECTION:repositories-->
-    <div id="repositories">
-        <details open>
-            <summary align="center"><h2 align="center">⭐ Latest Repositories ⭐</h2></summary>
-            <p id="repositories">Latest repositories I starred:</p>
-        </details>
-    </div>
-    <!--END_SECTION:repositories-->
-    <!--START_SECTION:recently-->
-    <div id="certificates_div">
-        <details open>
-            <summary align="center"><h2 align="center">👨‍💻 My Repositories 👨‍💻</h2></summary>
-            <p>I created recently those repositories:</p>
-        </details>
-    </div>
-    <!--END_SECTION:recently-->
-    <!--START_SECTION:Statistics-->
-    <div id="certificates_div" align="center">
-        <details open>
-            <summary align="center"><h2 align="center">📊 Statistics 📊</h2></summary>
-            <a href="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" alt="D0rDa4aN919's github stats"></a>
-            <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" alt="D0rDa4aN919's github stats"></a>
-        </details>
-    </div>
-    <!--END_SECTION:Statistics-->
-    <!--START_SECTION:Certificates-->
-    <div id="certificates_div" align="center">
-        <details open>
-            <summary align="center"><h2 align="center">🎓 Certificates & Trainings 🎓</h2></summary>
-            <p id="certificates">
-                <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
-                <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
-                <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
-            </p>
-        </details>
-    </div>
-    <!--END_SECTION:Certificates-->
-    <!--START_SECTION:badgesCert-->
-    <!--END_SECTION:badgesCert-->
 </body>
 </html>
