@@ -68,8 +68,8 @@
         <div id="statistics_div" align="center">
             <details open>
                 <summary align="center"><h2 align="center">📊 Statistics 📊</h2></summary>
-                <a href="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" alt="D0rDa4aN919's github stats"></a>
-                <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" alt="D0rDa4aN919's github stats"></a>
+                    <a href="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=cobalt" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" alt="D0rDa4aN919's github stats"></a>
+                    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" alt="D0rDa4aN919's github stats"></a>
             </details>
         </div>
         <!--END_SECTION:Statistics-->
