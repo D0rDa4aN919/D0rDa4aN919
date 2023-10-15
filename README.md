@@ -43,7 +43,7 @@
         <!--START_SECTION:askMe-->
         <div id="ask_me">
             <details open>
-                <summary><h2 align="center">💬 Ask Me 💬</h2></summary>
+                <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
                 <p id="askMe"> 
                 <ul>
                     <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
