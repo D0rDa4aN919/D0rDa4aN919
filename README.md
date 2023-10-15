@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:Explain-->
 My name is Dor and I'm an Penetration tester / SOC Analiyest/ cyber secuirty lecturer 
-working with customers on topics related to application innovation & migration, containers, serverless, DevOps, and more. I'm also a maintainer of [Keptn](https://keptn.sh) and I've been a [cyber secruity lecturer](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662) in the [LFX initiative](https://lfx.linuxfoundation.org/tools/mentorship/) (read what mentees are saying [1](https://www.ankitjain28.me/communitybridge-mentee-with-keptn/) [2](https://www.cncf.io/blog/2021/07/13/spring-term-lfx-program-largest-graduating-class-with-28-successful-cncf-interns/) [3](https://rajdas98.medium.com/my-experience-with-linux-foundation-mentorship-program-80b3614c55f5?source=post_internal_links---------3----------------------------)) and [everyonecodes.io](https://everyonecodes.io/).
-<!--START_SECTION:Explain-->
+working with customers on topics related to application innovation & migration, containers, serverless, DevOps, and more. I'm also a maintainer of [Keptn](https://keptn.sh) and I've been a [cyber secruity lecturer]() in the [LFX initiative]() (read what mentees are saying [1]
 
 
 
