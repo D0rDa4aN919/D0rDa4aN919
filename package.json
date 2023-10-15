@@ -1,0 +1,11 @@
+{
+    "name": "your-repo-name",
+    "version": "1.0.0",
+    "scripts": {
+      "generate-rss": "node generate-rss.js"
+    },
+    "dependencies": {
+      "rss-to-markdown": "^1.0.1"
+    }
+  }
+  

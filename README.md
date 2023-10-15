@@ -77,8 +77,12 @@
 </div>
 
 
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+
+<!--START_SECTION:blog-->
+<!-- The generated RSS feed will be inserted here -->
+<!--END_SECTION:blog-->
+
+
 
 
 <!--END_SECTION:Blog-->
