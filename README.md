@@ -123,9 +123,12 @@ Here are some ideas to get you started:
 <!--END_SECTION:recently-->
 <!--START_SECTION:Statistics-->
 ## 📊 Statistics
-![D0rDa4aN919's github stats](https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical)
+<div id="certificates_div" align="center">
+    
+    ![D0rDa4aN919's github stats](https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact)](https://github.com/D0rDa4aN919)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact)](https://github.com/D0rDa4aN919)
+</div>
 
 <!--END_SECTION:Statistics-->
 
@@ -137,7 +140,7 @@ Here are some ideas to get you started:
       <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
       <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
     </p>
-</div>s
+</div>
 <!--END_SECTION:Certificates-->
 
 <!--START_SECTION:badgesCert-->
