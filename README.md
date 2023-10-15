@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![GitHub last commit](https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers)
 ![GitHub following](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20following)
+![GitHub stars](https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars)
 <!--END_SECTION:Tags-->
 
 <!--START_SECTION:Explain-->
@@ -29,7 +30,7 @@ working with customers on topics related to application innovation & migration, 
 
 👯 With Keptn, we are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
 
-💬 Ask me about Azure: how to get started and get productive in the cloud.
+💬 Ask me about Cyber-Security: How to use python for Cyber-Secuirty.
 
 #### 📫 How to best reach out: 
 - LinkedIn [Dor Dahan](https://www.linkedin.com/in/dor-dahan-b44655154/)
