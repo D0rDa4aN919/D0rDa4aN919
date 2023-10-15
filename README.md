@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:badgesTags-->
+<!--START_SECTION:badgesTagsGithub-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers)
-<!--![GitHub following](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20following)-->
 ![GitHub stars](https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars)
-<!--END_SECTION:badgesTags-->
+<!--END_SECTION:badgesTagsGithub-->
+<!--START_SECTION:badgesTagsLang-->
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+<!--![GitHub following](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20following)-->
+<!--END_SECTION:badgesTagsLang-->
 
 
 
