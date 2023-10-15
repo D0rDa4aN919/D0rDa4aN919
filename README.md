@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:about-->
 <div id="ask_me" align="center">
     <h3>Ask Me</h3>
+    <hr>
     <p id="ask_me_p">💬 Ask me about Cyber-Security: How to use python for Cyber-Secuirty.</p>
 </div>
 <!--END_SECTION:about-->
