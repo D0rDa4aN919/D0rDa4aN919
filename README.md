@@ -68,13 +68,14 @@ Here are some ideas to get you started:
     <h2 width="200px">Ask Me</h2>
     <p> 📫 How to best reach out:</p>
     <ul>
-    <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/">Dor Dahan</a></il>
-    <il>X (formerly Twitter): <a herf="https://twitter.com/d0r_dhn92836">@d0r_dhn92836</a></il>
-    <ul>
-
-- 
+        <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/">Dor Dahan</a></il>
+        <il>X (formerly Twitter): <a herf="https://twitter.com/d0r_dhn92836">@d0r_dhn92836</a></il>
+    </ul>
+</div>
 <!--END_SECTION:reach-->
+
 <!---->
+
 <!--START_SECTION:blog-->
 <!--START_SECTION:blog-->
 #### 📖 My latest blog posts from [medium](https://medium.com/@dordaha491n)
