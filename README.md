@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:badgesTagsGithub-->
 <img src="https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated" alt="GitHub last commit">
+
 ![GitHub followers](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers)
 ![GitHub stars](https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars)
 <!--END_SECTION:badgesTagsGithub-->
