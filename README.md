@@ -24,9 +24,32 @@ Here are some ideas to get you started:
 <!--END_SECTION:badgesTags-->
 
 <!--START_SECTION:Explain-->
-I'm Dor, a motivated young cybersecurity, and I'm also a <div class="move">✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</div>. Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
-<!--END_SECTION:Explain-->
+I'm Dor, a motivated young cybersecurity, and I'm also a <div id="writing">✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</div>. Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
+<script>
+  var i = 0;
+  var txt = 'Penetration Tester Lecturer,';
+  var speed = 200;
 
+  function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+  async function typeWriter() {
+    var writingElement = document.getElementById("writing");
+    if (i < txt.length) {
+        writingElement.innerHTML = txt.substring(0, i + 1);
+        i++;
+        setTimeout(typeWriter, speed);
+    } else {
+        await sleep(2000); // Sleep for 2 seconds
+        i = 0;
+        writingElement.innerHTML = ''; // Clear the content
+        setTimeout(typeWriter, speed);
+    }
+}
+
+</script>
+<!--END_SECTION:Explain-->
 <!--START_SECTION:contributions-->
 👯 With Keptn, we are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
 <!--END_SECTION:contributions-->
