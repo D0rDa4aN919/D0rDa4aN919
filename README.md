@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 <div id="ask_me" align="center">
     <h2 width="200px">Ask Me</h2>
     <p> 📫 How to best reach out:</p>
-    <ul>
+    <ol>
         <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/">Dor Dahan</a></il>
         <il>X (formerly Twitter): <a herf="https://twitter.com/d0r_dhn92836">@d0r_dhn92836</a></il>
-    </ul>
+    </ol>
 </div>
 <!--END_SECTION:reach-->
 
