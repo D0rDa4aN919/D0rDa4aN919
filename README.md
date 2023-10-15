@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <style>
+        #badgesTagsGithub {
+            color: light-green;
+        };
+    </style>
 </head>
 <body>
 
