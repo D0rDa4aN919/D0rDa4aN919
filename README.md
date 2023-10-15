@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <!--END_SECTION:Explain-->
     <!--START_SECTION:badgesTagsLang-->
     <div id="techskill" align="center" class="container one_side">
-        <h2>👷 Technical Skills 👷</h2>
+        <h2>🧑‍💻 Technical Skills 🧑‍💻</h2>
         <p id="TechnicalSkill">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
             <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
@@ -58,7 +58,8 @@ Here are some ideas to get you started:
         <h2 align="center">💬 Ask Me 💬</h2>
         <p id="askMe"> 
         <ul>
-            <li>About Cyber-Security: How to use python for Cyber-Secuirty.</li>
+            <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
+            <li>About Cyber-Security: Which protection.</li>
         </ul>
         </p>
     </div>
