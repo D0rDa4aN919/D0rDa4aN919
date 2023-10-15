@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars)
 <!--END_SECTION:badgesTagsGithub-->
 <!--START_SECTION:badgesTagsLang-->
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--![GitHub following](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20following)-->
 <!--END_SECTION:badgesTagsLang-->
 
