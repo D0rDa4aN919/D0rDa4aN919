@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badgesTagsGithub-->
-<div id="TagsGithub">
-    <p id="badgesTagsGithub" align="center">
+<div id="TagsGithub" align="center">
+    <p id="badgesTagsGithub">
       <img src="https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated" alt="GitHub last commit">
       <img src="https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers" alt="GitHub followers">
       <img src="https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars" alt="GitHub stars">
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <!--END_SECTION:badgesTagsGithub-->
 
 <!--START_SECTION:badgesTagsLang-->
-<div id="TagsLang">
-    <p id="badgesTagsLang" align="center">
+<div id="TagsLang" align="center">
+    <p id="badgesTagsLang">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
       <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:Explain-->
-<div id="about_me">
+<div id="about_me" align="center">
     <h2>About Me</h2>
-    <p id="badgesTagsLang" align="center">
+    <p id="badgesTagsLang">
         I'm Dor, a motivated young cybersecurity, and I'm also a <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
         Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. 
         Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
