@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:Explain-->
 <div id="about_me" align="center">
-    
-    <p id="badgesTagsLang">        I'm Dor, a motivated young cybersecurity, and I'm also a <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
+    <h2>About Me</h2>
+    <p id="badgesTagsLang">I'm Dor, a motivated young cybersecurity, and I'm also a <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
         Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. 
         Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
     </p>
@@ -57,15 +57,15 @@ Here are some ideas to get you started:
 <!--END_SECTION:Explain-->
 
 <!--START_SECTION:askMe-->
-<div id="ask_me" align="center">
-    <h2 width="200px">Ask Me</h2>
+<div id="ask_me">
+    <h2 align="center">Ask Me</h2>
     <p id="askMe">💬 Ask me about Cyber-Security: How to use python for Cyber-Secuirty.</p>
 </div>
 <!--END_SECTION:askMe-->
 
 <!--START_SECTION:reach-->
-<div id="ask_me" align="center">
-    <h2 width="200px">Ask Me</h2>
+<div id="reach_me">
+    <h2 align="center">Reach Me</h2>
     <p> 📫 How to best reach out:</p>
     <ol>
         <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/">Dor Dahan</a></il>
