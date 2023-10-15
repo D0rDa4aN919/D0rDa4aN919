@@ -49,11 +49,13 @@ Even though I'm not actively offering security consulting or penetration testing
 <!--END_SECTION:reach-->
 <!---->
 <!--START_SECTION:blog-->
+<!--START_SECTION:blog-->
 #### 📖 My latest blog posts from [medium](https://medium.com/@dordaha491n)
 {{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 <!--END_SECTION:blog-->
+
 
 
 <!--START_SECTION:currently-->
