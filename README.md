@@ -50,7 +50,7 @@
 <div id="reach_me">
     <details open>
         <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
-        <p>You can reach me at:</p>
+        <p><b>You can reach me at:</b></p>
         <ul>
             <il>LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
             <il>X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
@@ -72,7 +72,7 @@
     <details open>
         <summary align="center"><h2 align="center">📖 Blog Posts 📖</h2></summary>
         <!-- https://medium.com/@dordaha491n/feed -->
-        <p id="my_blog">My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a><br>
+        <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a></b><br>
     </details>    
 </div>
 
@@ -90,10 +90,10 @@
 <div id="working_repositories" >
     <details open>
         <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
-        <p id="workingrepositories">
+        <p id="workingrepositories"><b>
         I'm currently working on project of cyber-security tools and POCs.
         The main project is on Google dorking cross platform tool with GUI/Website/CLI interface.
-        </p>
+        </b></p>
     </details>
 </div>
 <!--END_SECTION:currently-->
@@ -101,7 +101,7 @@
 <div id="My_Repositories">
     <details open>
         <summary align="center"><h2 align="center">👨‍💻 My Repositories 👨‍💻</h2></summary>
-        <p id="MyRepositories">I created recently those repositories:</p>
+        <p id="MyRepositories"><b>I created recently those repositories:</b></p>
     </details>
 </div>
 <!--END_SECTION:recently-->
@@ -109,7 +109,7 @@
 <div id="last_repositories">
     <details open>
         <summary align="center"><h2 align="center">⭐ Latest Repositories ⭐</h2></summary>
-        <p id="lastrepositories">Latest repositories I starred:</p>
+        <p id="lastrepositories"><b>Latest repositories I starred:</b></p>
     </details>
 </div>
 <!--END_SECTION:repositories-->
@@ -117,13 +117,12 @@
 <div id="ask_me">
     <details open>
         <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
-        <p id="askMe">You can ask me everything, like: 
+        <p id="askMe"><b>You can ask me everything, like:</b></p>
         <ul>
             <li>About Cyber-Security Python: How to use python for Cyber-Secuirty.</li>
             <li>About Python: Using OOP in python.</li>
             <li>About Cyber-Security: what are the preferd protication based on the object.</li>
         </ul>
-        </p>
     </details>
 </div>
 <!--END_SECTION:askMe-->
