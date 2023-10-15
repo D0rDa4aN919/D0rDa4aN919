@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badgesTagsGithub-->
-<img src="https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated" alt="GitHub last commit"><img src="https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers" alt="GitHub followers"><img src="https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars" alt="GitHub stars">
-
+<p id="badgesTagsGithub">
+  <img src="https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars" alt="GitHub stars">
+</p>
 <!--END_SECTION:badgesTagsGithub-->
 <!--START_SECTION:badgesTagsLang-->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
