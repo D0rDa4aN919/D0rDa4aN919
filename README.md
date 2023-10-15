@@ -34,7 +34,9 @@ Even though I'm not actively offering security consulting or penetration testing
 
 <!--START_SECTION:reach-->
 #### 📫 How to best reach out: 
+
 - LinkedIn [Dor Dahan](https://www.linkedin.com/in/dor-dahan-b44655154/)
+
 - X (formerly Twitter) [@d0r_dhn92836](https://twitter.com/d0r_dhn92836)
 <!--END_SECTION:reach-->
 <!---->
