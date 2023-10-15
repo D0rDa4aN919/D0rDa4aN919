@@ -69,8 +69,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:reach-->
 <div id="reach_me">
-    <h2 align="center">Reach Me</h2>
-    <p> 📫 How to best reach out:</p>
+    <h2 align="center">📫 Reach Me 📫</h2>
     <ol>
         <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/">Dor Dahan</a></il>
         <il>X (formerly Twitter): <a herf="https://twitter.com/d0r_dhn92836">@d0r_dhn92836</a></il>
@@ -130,22 +129,15 @@ Here are some ideas to get you started:
 
 <!--END_SECTION:Statistics-->
 
-
-<div id="certificates_div" align="center">
-    <p id="certificates">
-      <img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH))" width="90px" height="90px">
-      <!-- <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> -->
-    </p>
-</div>
-
 <!--START_SECTION:Certificates-->
-## 🎓 Certificates & Trainings
-
-- HackerU Theoretical Certificate:
-  
-- ThriveDx Arena Penetration Tester Practical Certificate (TAPT): 
+<div id="certificates_div" align="center">
+    <h2 align="center">🎓 Certificates & Trainings 🎓</h2>
+    <p id="certificates">
+      <img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px">
+      <img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px">
+      <img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px">
+    </p>
+</div>s
 <!--END_SECTION:Certificates-->
 
 <!--START_SECTION:badgesCert-->
