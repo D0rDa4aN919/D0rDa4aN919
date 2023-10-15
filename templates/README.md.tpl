@@ -81,7 +81,7 @@
 <!--START_SECTION:blog-->
 #### 📖 My latest blog posts (from my [medium.com/@dordaha491n blog](https://medium.com/@dordaha491n))
 {{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+- [{{ .Title }}]({{ .link }}) ({{ .pubDate }})
 {{- end }}
 <!--END_SECTION:blog-->
 
@@ -137,3 +137,7 @@
     <p id="contributed">Latest releases I contributed to:</p>
 </div> -->
 <!--END_SECTION:Latest-->
+
+
+{{comment "<!--START_SECTION:badges-->"}}
+{{comment "<!--END_SECTION:badges-->"}}
