@@ -80,9 +80,9 @@
 
 <!--START_SECTION:blog-->
 #### 📖 My latest blog posts (from my [medium.com/@dordaha491n blog](https://medium.com/@dordaha491n))
-- [Title of Blog Post 1](Link to Post 1) (Publication Date 1)
-- [Title of Blog Post 2](Link to Post 2) (Publication Date 2)
-- [Title of Blog Post 3](Link to Post 3) (Publication Date 3)
+{{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
 <!--END_SECTION:blog-->
 
 
