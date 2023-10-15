@@ -3,7 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <style>
+    #sider {
+      display: flex;
+      justify-content: space-between;
+    }
+    .container {
+      width: 45%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      margin: 10px;
+      box-sizing: border-box;
+    }
+    .one_side {
+      float: right;
+    }
+    .second_side {
+      float: left;
+    }
+  </style>
 </head>
 <body>
     <h1 align="center">👋 Hi there 👋</h1>
