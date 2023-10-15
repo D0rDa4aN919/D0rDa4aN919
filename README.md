@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:Explain-->
 <div id="about_me" align="center">
     <h3>About Me</h3>
-    <hr width="40px">
+    <hr width="200px">
     <p id="badgesTagsLang">        I'm Dor, a motivated young cybersecurity, and I'm also a <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
         Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. 
         Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
