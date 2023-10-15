@@ -41,9 +41,9 @@
         </div>
         <!--END_SECTION:badgesTagsLang-->
         <!--START_SECTION:askMe-->
-        <div id="ask_me" align="center">
+        <div id="ask_me">
             <details open>
-                <summary><h2>💬 Ask Me 💬</h2></summary>
+                <summary><h2 align="center">💬 Ask Me 💬</h2></summary>
                 <p id="askMe"> 
                 <ul>
                     <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
@@ -54,9 +54,9 @@
         </div>
         <!--END_SECTION:askMe-->
         <!--START_SECTION:Blog-->
-        <div id="blog" align="center">
+        <div id="blog">
             <details open>
-                <summary><h2>📖 Blog Posts 📖</h2></summary>
+                <summary><h2 align="center">📖 Blog Posts 📖</h2></summary>
                 <!-- https://medium.com/@dordaha491n/feed -->
                 <p id="my_blog">My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a><br>
                 <ul>
@@ -67,9 +67,9 @@
         </div>
         <!--END_SECTION:Blog-->
         <!--START_SECTION:reach-->
-        <div id="reach_me" align="center">
+        <div id="reach_me">
             <details open>
-                <summary><h2>📫 Reach Me 📫</h2></summary>
+                <summary><h2 align="center">📫 Reach Me 📫</h2></summary>
                 <ol>
                     <il>LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
                     <il>X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
@@ -79,9 +79,9 @@
         <!--END_SECTION:reach-->
     </div>
     <!--START_SECTION:currently-->
-    <div id="repositories" align="center">
+    <div id="repositories" >
         <details open>
-            <summary><h2>👷 Working Projects 👷</h2></summary>
+            <summary><h2 align="center">👷 Working Projects 👷</h2></summary>
             <p id="repositories">I'm currently working on project of cyber-security tools and POCs.</p>
         </details>
     </div>
@@ -94,23 +94,23 @@
     </div> -->
     <!--END_SECTION:Latest-->
     <!--START_SECTION:repositories-->
-    <div id="repositories" align="center" class="container second_side">
+    <div id="repositories">
         <details open>
-            <summary><h2>⭐ Latest Repositories ⭐</h2></summary>
+            <summary><h2 align="center">⭐ Latest Repositories ⭐</h2></summary>
             <p id="repositories">Latest repositories I starred:</p>
         </details>
     </div>
     <!--END_SECTION:repositories-->
     <!--START_SECTION:recently-->
-    <div id="certificates_div" align="center" class="container one_side">
+    <div id="certificates_div">
         <details open>
-            <summary><h2>👨‍💻 My Repositories 👨‍💻</h2></summary>
+            <summary><h2 align="center">👨‍💻 My Repositories 👨‍💻</h2></summary>
             <p>I created recently those repositories:</p>
         </details>
     </div>
     <!--END_SECTION:recently-->
     <!--START_SECTION:Statistics-->
-    <div id="certificates_div" align="center" class="container">
+    <div id="certificates_div" align="center">
         <details open>
             <summary><h2>📊 Statistics 📊</h2></summary>
             <a href="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" alt="D0rDa4aN919's github stats"></a>
@@ -119,7 +119,7 @@
     </div>
     <!--END_SECTION:Statistics-->
     <!--START_SECTION:Certificates-->
-    <div id="certificates_div" align="center" class="container">
+    <div id="certificates_div" align="center">
         <details open>
             <summary><h2>🎓 Certificates & Trainings 🎓</h2></summary>
             <p id="certificates">
