@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <div id="reach_me">
     <h2 align="center">📫 Reach Me 📫</h2>
     <ol>
-        <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il>
+        <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
         <il>X (formerly Twitter): <a herf="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
     </ol>
 </div>
