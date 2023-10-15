@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:Tags-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/D0rDa4aN919/D0rDa4aN919?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20followers)
-![GitHub followers](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20following)
+![GitHub following](https://img.shields.io/github/followers/D0rDa4aN919?label=GitHub%20following)
 <!--END_SECTION:Tags-->
 
 <!--START_SECTION:Explain-->
@@ -32,12 +32,12 @@ working with customers on topics related to application innovation & migration, 
 💬 Ask me about Azure: how to get started and get productive in the cloud.
 
 #### 📫 How to best reach out: 
-- LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
-- X (formerly Twitter) [@jetzlstorfer](https://twitter.com/jetzlstorfer)
+- LinkedIn [Dor Dahan](https://www.linkedin.com/in/dor-dahan-b44655154/)
+- X (formerly Twitter) [@d0r_dhn92836](https://twitter.com/d0r_dhn92836)
 
 
 #### 📖 My latest blog posts (from my [https://medium.com/@dordaha491n))
-{{- range rss "https://jetzlstorfer.medium.com/feed" 5 }}
+{{- range rss "[https://jetzlstorfer.medium.com/feed](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e)" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
