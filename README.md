@@ -131,10 +131,17 @@ Here are some ideas to get you started:
 <!--END_SECTION:Statistics-->
 
 
+<div id="certificates_div" align="center">
+    <p id="certificates">
+      <img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH))">
+      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    </p>
+</div>
+
 <!--START_SECTION:Certificates-->
 ## 🎓 Certificates & Trainings
-
-- Certified Ethical Hacker (CEH):
 
 - HackerU Theoretical Certificate:
   
