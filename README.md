@@ -50,16 +50,20 @@ Even though I'm not actively offering security consulting or penetration testing
 <!---->
 <!--START_SECTION:blog-->
 #### 📖 My latest blog posts from [medium](https://medium.com/@dordaha491n)
-{{- range rss "[https://jetzlstorfer.medium.com/feed](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e)" 5 }}
+{{- range rss "[https://medium.com/@dordaha491n/feed](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e)" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 <!--END_SECTION:blog-->
+
+
 <!--START_SECTION:currently-->
 #### 👷 I'm currently working on project of cyber-security tools and POCs.
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 <!--END_SECTION:currently-->
+
+
 <!--START_SECTION:Latest-->
 #### 🚀 Latest releases I contributed to
 {{range recentReleases 5}}
