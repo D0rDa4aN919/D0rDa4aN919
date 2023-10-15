@@ -138,6 +138,3 @@
 </div> -->
 <!--END_SECTION:Latest-->
 
-
-{{comment "<!--START_SECTION:badges-->"}}
-{{comment "<!--END_SECTION:badges-->"}}
