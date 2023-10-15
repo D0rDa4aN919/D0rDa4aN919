@@ -74,5 +74,6 @@ working with customers on topics related to application innovation & migration, 
 
 ## 🎓 Certificates & Trainings
 
+
 {{comment "<!--START_SECTION:badges-->"}}
 {{comment "<!--END_SECTION:badges-->"}}
