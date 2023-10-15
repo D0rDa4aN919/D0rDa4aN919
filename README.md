@@ -18,7 +18,7 @@
     <!--END_SECTION:badgesTagsGithub-->
     <div id="sider">
         <!--START_SECTION:Explain-->
-        <div id="about_me" align="center" class="container one_side">
+        <div id="about_me" align="center" class="container one_side" style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc; margin: 10px; box-sizing: border-box;">
             <h2>👉 About Me 👈</h2>
             <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
             Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. 
@@ -27,7 +27,7 @@
         </div>
         <!--END_SECTION:Explain-->
         <!--START_SECTION:badgesTagsLang-->
-        <div id="techskill" align="center" class="container one_side">
+        <div id="techskill" align="center" class="container one_side" style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc; margin: 10px; box-sizing: border-box;">
             <h2>🧑‍💻 Technical Skills 🧑‍💻</h2>
             <p id="TechnicalSkill">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -52,7 +52,7 @@
         <div id="blog" class="container second_side">
             <h2 align="center">📖 Blog Posts 📖</h2>
             <!-- https://medium.com/@dordaha491n/feed -->
-            <p id="my_blog">My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a>[]()<br>
+            <p id="my_blog">My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a><br>
             <ul>
                 <li>About Cyber-Security: How to use python for Cyber-Secuirty.</li>
             </ul>
