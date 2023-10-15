@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
 
 <h1 align="center"> Hi there 👋</h1>
 
@@ -116,3 +123,6 @@ Even though I'm not actively offering security consulting or penetration testing
 
 <!--END_SECTION:badgesCert-->
 
+
+</body>
+</html>
