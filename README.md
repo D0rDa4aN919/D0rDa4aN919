@@ -70,7 +70,7 @@ working with customers on topics related to application innovation & migration, 
 
 ## 📊 Statistics
 
-[![D0rDa4aN919's github stats](https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical)]]
+[![D0rDa4aN919's github stats](https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical)]
 [![D0rDa4aN919's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D0rDa4aN919)](https://github.com/D0rDa4aN919/github-readme-stats)
 ## 🎓 Certificates & Trainings
 
