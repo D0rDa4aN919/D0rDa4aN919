@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 <div id="reach_me">
     <h2 align="center">📫 Reach Me 📫</h2>
     <ol>
-        <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/">Dor Dahan</a></il>
-        <il>X (formerly Twitter): <a herf="https://twitter.com/d0r_dhn92836">@d0r_dhn92836</a></il>
+        <il>LinkedIn: <a herf="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il>
+        <il>X (formerly Twitter): <a herf="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
     </ol>
 </div>
 <!--END_SECTION:reach-->
@@ -125,8 +125,8 @@ Here are some ideas to get you started:
 ## 
 <div id="certificates_div" align="center">
     <h2 align="center">📊 Statistics 📊</h2>
-    <a href="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" alt="D0rDa4aN919's github stats"></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" alt="D0rDa4aN919's github stats"></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical" alt="D0rDa4aN919's github stats"></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" alt="D0rDa4aN919's github stats"></a>
 </div>
 
 
@@ -139,9 +139,9 @@ Here are some ideas to get you started:
 <div id="certificates_div" align="center">
     <h2 align="center">🎓 Certificates & Trainings 🎓</h2>
     <p id="certificates">
-      <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
-      <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
-      <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
+      <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
+      <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
+      <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
     </p>
 </div>
 <!--END_SECTION:Certificates-->
