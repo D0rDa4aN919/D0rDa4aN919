@@ -80,7 +80,7 @@ Even though I'm not actively offering security consulting or penetration testing
 <!--END_SECTION:recently-->
 <!--START_SECTION:Statistics-->
 ## 📊 Statistics
-[![D0rDa4aN919's github stats](https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical)]
+[![D0rDa4aN919's github stats](https://github-readme-stats.vercel.app/api?username=D0rDa4aN919&show_icons=true&theme=radical)](https://github.com/D0rDa4aN919)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact)](https://github.com/D0rDa4aN919)
 
