@@ -57,10 +57,10 @@
             <details open>
                 <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
                 <p>You can reach me at:</p>
-                <ol>
+                <ul>
                     <il>LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
                     <il>X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
-                </ol>
+                </ul>
             </details>
         </div>
         <!--END_SECTION:reach-->
@@ -79,8 +79,15 @@
                 <summary align="center"><h2 align="center">📖 Blog Posts 📖</h2></summary>
                 <!-- https://medium.com/@dordaha491n/feed -->
                 <p id="my_blog">My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a><br>
+
+                <!-- BLOGPOSTS:START -->
+                <!-- BLOGPOSTS:END -->
+                
+                
                 <ul>
-                    <li>About Cyber-Security: How to use python for Cyber-Secuirty.</li>
+                    <li>About Cyber-Security Python: How to use python for Cyber-Secuirty.</li>
+                    <li>About Python: Using OOP in python.</li>
+                    <li>About Cyber-Security: what are the preferd protication based on the object.</li>
                 </ul>
                 </p>
             </details>    
@@ -90,7 +97,10 @@
         <div id="working_repositories" >
             <details open>
                 <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
-                <p id="workingrepositories">I'm currently working on project of cyber-security tools and POCs.</p>
+                <p id="workingrepositories">
+                I'm currently working on project of cyber-security tools and POCs.
+                The main project is on Google dorking cross platform tool with GUI/Website/CLI interface.
+                </p>
             </details>
         </div>
         <!--END_SECTION:currently-->
@@ -114,10 +124,11 @@
         <div id="ask_me">
             <details open>
                 <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
-                <p id="askMe"> 
+                <p id="askMe">You can ask me everything, like: 
                 <ul>
-                    <li>About Cyber-Security Python: How to use Python for Cyber-Secuirty.</li>
-                    <li>About Cyber-Security: Which protection.</li>
+                    <li>About Cyber-Security Python: How to use python for Cyber-Secuirty.</li>
+                    <li>About Python: Using OOP in python.</li>
+                    <li>About Cyber-Security: what are the preferd protication based on the object.</li>
                 </ul>
                 </p>
             </details>
@@ -126,9 +137,9 @@
     </div>
     <!--START_SECTION:Latest-->
     <!-- need to add -->
-    <!-- <div id="certificates_div" align="center">
+    <!-- <div id="contributed_div" align="center">
         <h2 align="center">🚀 Latest Releases 🚀</h2>
-        <p>Latest releases I contributed to:</p>
+        <p id="contributed">Latest releases I contributed to:</p>
     </div> -->
     <!--END_SECTION:Latest-->
 </body>
