@@ -32,6 +32,7 @@ Here are some ideas to get you started:
     </p>
 </div>
 <!--END_SECTION:badgesTagsGithub-->
+
 <!--START_SECTION:badgesTagsLang-->
 <div id="TagsLang">
     <p id="badgesTagsLang" align="center">
