@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center">👋 Hi there 👋</h1>
 
 <!--
 **D0rDa4aN919/D0rDa4aN919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:Explain-->
 <div id="about_me" align="center">
-    <h2>About Me</h2>
+    <h2>👉 About Me 👈</h2>
     <p id="badgesTagsLang">I'm Dor, a motivated young cybersecurity, and I'm also a <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
         Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. 
         Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
@@ -58,8 +58,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:askMe-->
 <div id="ask_me">
-    <h2 align="center">Ask Me</h2>
-    <p id="askMe">💬 Ask me about Cyber-Security: How to use python for Cyber-Secuirty.</p>
+    <h2 align="center">💬 Ask Me 💬</h2>
+    <p id="askMe"> 
+    <ul>
+        <li>About Cyber-Security: How to use python for Cyber-Secuirty.</li>
+    </ul>
+    </p>
 </div>
 <!--END_SECTION:askMe-->
 
