@@ -133,9 +133,9 @@ Here are some ideas to get you started:
 <div id="certificates_div" align="center">
     <h2 align="center">🎓 Certificates & Trainings 🎓</h2>
     <p id="certificates">
-      <img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px">
-      <img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px">
-      <img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px">
+      <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
+      <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
+      <a href="https://aspen.eccouncil.org/Home"><img src="assets/images/ceh_logo.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
     </p>
 </div>s
 <!--END_SECTION:Certificates-->
