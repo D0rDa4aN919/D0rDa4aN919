@@ -9,6 +9,12 @@
     </p>
 </div>
 
+<div id="love" align="center">
+    <p id="badgeslove">
+        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+    </p>
+</div>
+
 <div id="about_me" align="center">
     <details open>
     <summary><h2 align="center">👉 About Me 👈</h2></summary>
@@ -29,7 +35,7 @@
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-            <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+
             <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
             <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
             <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -116,11 +122,11 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/website](https://github.com/D0rDa4aN919/website) -  (1 week ago)
 - [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) -  (1 week ago)
 - [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) -  (2 weeks ago)
 - [D0rDa4aN919/TelegramBot_C2C_Py](https://github.com/D0rDa4aN919/TelegramBot_C2C_Py) - Telegram bot C2 POC that use the chat of telegram group as the C2 interface. The bots as agents that execute the command and send the result. (1 month ago)
 - [D0rDa4aN919/PY_Telegram_keylogger](https://github.com/D0rDa4aN919/PY_Telegram_keylogger) - A POC script that need to be run in the target side, and use the Telegram bot as middle men between the attacker and the target machine and send the key strokes to the chat id pre added. (1 month ago)
+- [D0rDa4aN919/Py-JSON-Dropper](https://github.com/D0rDa4aN919/Py-JSON-Dropper) - A python POC malware dropper in the format of JSON and API. (1 month ago)
 
 
 <h2 align="center">⭐ Latest Repositories ⭐</h2>
