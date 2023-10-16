@@ -61,18 +61,7 @@
     </details>
 </div>
 
-<!--
-<div id="blog">
-    <h2 align="center">📖 Blog Posts 📖</h2>
-    <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">my medium blog</a></b></p><br>  
-</div>
-
-
-
-{{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
--->
+<h2 align="center">📖 Blog Posts 📖</h2>
 
 
 #### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
