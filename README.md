@@ -61,14 +61,15 @@
     </details>
 </div>
 
-<div id="blog">
-    <h2 align="center">📖 Blog Posts 📖</h2>
-    <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">my medium blog</a></b></p><br>  
-</div>
-- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (1 month ago)
-- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (1 month ago)
-- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 months ago)
-- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (2 months ago)
+
+
+
+#### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
+- [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (9 months ago)
+- [Automating &amp; evaluating load testing with Locust and Keptn](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed?source=rss-14f716fb26f2------2) (2 years ago)
+- [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (2 years ago)
+- [Part-2: Evaluating Application Resiliency with Keptn and LitmusChaos (use-case and demo)](https://medium.com/keptn/part-2-evaluating-application-resiliency-with-keptn-and-litmuschaos-use-case-and-demo-f43b264a2294?source=rss-14f716fb26f2------2) (2 years ago)
+- [Keptn — simplifying cloud-native app delivery &amp; operations — a review on our journey so far](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662?source=rss-14f716fb26f2------2) (2 years ago)
 
 
 <div id="working_repositories" >
