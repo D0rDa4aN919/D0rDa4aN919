@@ -83,8 +83,7 @@
 {{range rss "https://medium.com/@dordaha491n/feed" 5}}
 - Title: {{.Title}}
 - URL: {{.URL}}
-- Published: {{humanize .PublishedAt}}
-- {{end}}
+- Published: {{humanize .PublishedAt}}{{end}}
 <!--END_SECTION:blog-->
 
 
