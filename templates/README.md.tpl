@@ -81,9 +81,9 @@
 <!--START_SECTION:blog-->
 #### 📖 My latest blog posts (from my [medium.com/@dordaha491n blog](https://medium.com/@dordaha491n))
 {{range rss "https://medium.com/@dordaha491n/feed" 5}}
-- Title: {{.Title}}
-- URL: {{.URL}}
-- Published: {{humanize .PublishedAt}}{{end}}
+- Title: {{.title}}
+- URL: {{.link}}
+- Published: {{humanize .pubDate}}{{end}}
 
 <!--END_SECTION:blog-->
 
