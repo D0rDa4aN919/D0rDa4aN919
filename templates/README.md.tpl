@@ -63,13 +63,13 @@
 
 <div id="blog">
     <h2 align="center">📖 Blog Posts 📖</h2>
-    <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a></b></p><br>  
+    <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">my medium blog</a></b></p><br>  
 </div>
 
 
 
 {{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
-- ({{ .Title }}): ({{ humanize .PublishedAt }}) - ({{ .URL }})
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
 
