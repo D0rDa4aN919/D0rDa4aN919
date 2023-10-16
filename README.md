@@ -12,8 +12,8 @@
 <div id="about_me" align="center">
     <details open>
     <summary><h2 align="center">👉 About Me 👈</h2></summary>
-    <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ Penetration Tester, SOC Analyst, and Lecture ✨</b>. 
-    Developing new POCs and tools for the cyber-security field for secure and resilient digital environment and education porpuses.
+    <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ Penetration Tester, SOC Analyst, and Lecture ✨</b>.<br>
+    I am developing new POCs and tools for the cyber-security field for secure and resilient digital environment and education porpuses.
     </p>
     </details>
 </div>
@@ -46,7 +46,7 @@
         <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
         <p><b>You can reach me at:</b>
         <ul>
-            <li> LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></li><br>
+            <li> LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></li>
             <li> X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></li>
         </ul>
         </p>
@@ -61,15 +61,6 @@
     </details>
 </div>
 
-<h2 align="center">📖 Blog Posts 📖</h2>
-
-
-#### 📖 My latest blog posts (from my @dordaha491n blog](https://medium.com/@dordaha491n))
-- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (1 month ago)
-- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (1 month ago)
-- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 months ago)
-- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (2 months ago)
-
 <div id="working_repositories" >
     <details open>
         <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
@@ -79,6 +70,30 @@
         </b></p>
     </details>
 </div>
+
+
+<div id="ask_me">
+    <details open>
+        <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
+        <p id="askMe"><b>You can ask me everything, like:</b></p>
+        <ul>
+            <li>About Cyber-Security Python: How to use python for Cyber-Secuirty.</li>
+            <li>About Python: Using OOP in python.</li>
+            <li>About Cyber-Security: what are the preferd protication based on the object.</li>
+        </ul>
+    </details>
+</div>
+
+
+<h2 align="center">📖 Blog Posts 📖</h2>
+
+
+#### 📖 My latest blog posts (from my @dordaha491n blog](https://medium.com/@dordaha491n))
+- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (1 month ago)
+- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (1 month ago)
+- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 months ago)
+- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (2 months ago)
+
 
 <h2 align="center">👨‍💻 My Repositories 👨‍💻</h2>
 
@@ -101,17 +116,3 @@
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1011 stars
 - [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 170 stars
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 14935 stars
-
-
-<div id="ask_me">
-    <details open>
-        <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
-        <p id="askMe"><b>You can ask me everything, like:</b></p>
-        <ul>
-            <li>About Cyber-Security Python: How to use python for Cyber-Secuirty.</li>
-            <li>About Python: Using OOP in python.</li>
-            <li>About Cyber-Security: what are the preferd protication based on the object.</li>
-        </ul>
-    </details>
-</div>
-
