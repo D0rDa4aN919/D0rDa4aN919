@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 * * */1"
 
 jobs:
   markscribe:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: muesli/readme-scribe@master
+      - uses: D0rDa4aN919/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
         with:
