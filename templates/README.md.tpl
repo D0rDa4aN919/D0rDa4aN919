@@ -66,15 +66,16 @@
         <summary align="center"><h2 align="center">📖 Blog Posts 📖</h2></summary>
         <!-- https://medium.com/@dordaha491n/feed -->
         <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a></b><br>
+        {{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
+        - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+        {{- end }}
     </details>    
 </div>
 
 
-#### 📖 My latest blog posts (from my [medium.com/@dordaha491n blog](https://medium.com/@dordaha491n))
+#### 📖 My latest blog posts (from my dordaha491n blog](https://medium.com/@dordaha491n))
 
-{{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
+
 
 
 <div id="working_repositories" >
