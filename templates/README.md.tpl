@@ -35,9 +35,9 @@
     <details open>
         <summary align="center"><h2 align="center">🎓 Certificates & Trainings 🎓</h2></summary>
         <p id="certificates">
-            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/badges/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
-            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/badges/HACKERU.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
-            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/badges/TAPT.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
+            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="/assets/badges/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
+            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="/assets/badges/HACKERU.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
+            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="/assets/badges/TAPT.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
         </p>
     </details>
 </div>
@@ -88,12 +88,13 @@
 {{- end}}
 
 
-<div id="last_repositories">
-    <details open>
-        <summary align="center"><h2 align="center">⭐ Latest Repositories ⭐</h2></summary>
-        <p id="lastrepositories"><b>Latest repositories I starred:</b></p>
-    </details>
-</div>
+<h2 align="center">⭐ Latest Repositories ⭐</h2>
+
+#### Latest repositories I starred:
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
+{{- end}}
+
 
 <div id="ask_me">
     <details open>
