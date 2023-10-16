@@ -107,7 +107,7 @@
     <details open>
         <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
         <p id="workingrepositories"><b>
-        I'm currently working on project of cyber-security tools and POCs.<br>
+        I'm currently working on projects of cyber-security tools and POCs.<br>
         The main project is on Google dorking cross platform tool with GUI/Website/CLI interface.
         </b></p>
     </details>
