@@ -3,26 +3,23 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "* * * * * *" # runs at 0:00 UTC each day
+    - cron: "* * * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@master
 
-      - name: Run markscribe
-        uses: muesli/readme-scribe@v0.1
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - name: Auto commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
         with:
