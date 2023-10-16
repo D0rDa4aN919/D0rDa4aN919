@@ -121,8 +121,8 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) -  (1 week ago)
-- [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) -  (2 weeks ago)
+- [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) - Speedy Typing McQueen is a simple typing speed test application built with Python and Tkinter. (1 week ago)
+- [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) - A Python GUI application allows users to add a watermark to an image. (2 weeks ago)
 - [D0rDa4aN919/TelegramBot_C2C_Py](https://github.com/D0rDa4aN919/TelegramBot_C2C_Py) - Telegram bot C2 POC that use the chat of telegram group as the C2 interface. The bots as agents that execute the command and send the result. (1 month ago)
 - [D0rDa4aN919/PY_Telegram_keylogger](https://github.com/D0rDa4aN919/PY_Telegram_keylogger) - A POC script that need to be run in the target side, and use the Telegram bot as middle men between the attacker and the target machine and send the key strokes to the chat id pre added. (1 month ago)
 - [D0rDa4aN919/Py-JSON-Dropper](https://github.com/D0rDa4aN919/Py-JSON-Dropper) - A python POC malware dropper in the format of JSON and API. (1 month ago)
@@ -136,4 +136,4 @@
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 3830 stars
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1011 stars
 - [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 170 stars
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 14935 stars
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 14936 stars
