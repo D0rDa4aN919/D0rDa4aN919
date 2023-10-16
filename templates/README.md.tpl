@@ -67,8 +67,9 @@
         <!-- https://medium.com/@dordaha491n/feed -->
         <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a></b><br>
         {{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
-        - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+        <il>{{ .Title }}: ({{ humanize .PublishedAt }}) - <a href="({{ .URL }})">Link</a></il>
         {{- end }}
+        </p>
     </details>    
 </div>
 
