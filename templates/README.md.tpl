@@ -44,11 +44,12 @@
 <div id="reach_me">
     <details open>
         <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
-        <p><b>You can reach me at:</b></p>
+        <p><b>You can reach me at:</b>
         <ul>
             <il> LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
             <il> X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
         </ul>
+        </p>
     </details>
 </div>
 
