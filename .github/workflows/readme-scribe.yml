@@ -8,6 +8,8 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4.1.0
       
@@ -27,6 +29,7 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+          push_options: '--force'
 
   update-badges:
     name: Update Readme with badges
