@@ -61,7 +61,7 @@
     </details>
 </div>
 
-
+<h2 align="center">📖 Blog Posts 📖</h2>
 
 
 #### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
