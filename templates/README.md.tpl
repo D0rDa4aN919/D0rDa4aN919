@@ -64,11 +64,10 @@
 <h2 align="center">📖 Blog Posts 📖</h2>
 
 
-#### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
-{{- range rss "https://jetzlstorfer.medium.com/feed" 5 }}
+#### 📖 My latest blog posts (from my @dordaha491n blog](https://medium.com/@dordaha491n))
+{{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
-
 
 <div id="working_repositories" >
     <details open>
@@ -80,12 +79,14 @@
     </details>
 </div>
 
-<div id="My_Repositories">
-    <details open>
-        <summary align="center"><h2 align="center">👨‍💻 My Repositories 👨‍💻</h2></summary>
-        <p id="MyRepositories"><b>I created recently those repositories:</b></p>
-    </details>
-</div>
+<h2 align="center">👨‍💻 My Repositories 👨‍💻</h2>
+
+
+#### I created recently those repositories:
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
 
 <div id="last_repositories">
     <details open>
