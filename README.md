@@ -109,7 +109,7 @@
 <h2 align="center">📖 Blog Posts 📖</h2>
 
 
-#### 📖 My latest blog posts (from my @dordaha491n blog](https://medium.com/@dordaha491n))
+#### 📖 My latest blog posts [(from my @dordaha491n blog)](https://medium.com/@dordaha491n)
 - [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (1 month ago)
 - [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (1 month ago)
 - [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 months ago)
