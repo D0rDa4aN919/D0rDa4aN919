@@ -16,7 +16,7 @@ jobs:
       - name: Run markscribe
         uses: muesli/readme-scribe@v0.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
@@ -24,7 +24,7 @@ jobs:
       - name: Auto commit
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
         with:
           commit_message: Update generated README
           branch: main
