@@ -8,9 +8,7 @@
         <img src="https://img.shields.io/github/stars/D0rDa4aN919?label=GitHub%20stars" alt="GitHub stars">
     </p>
 </div>
-<!--END_SECTION:badgesTagsGithub-->
 
-<!--START_SECTION:Explain-->
 <div id="about_me" align="center">
     <details open>
     <summary><h2 align="center">👉 About Me 👈</h2></summary>
@@ -20,8 +18,7 @@
     </p>
     </details>
 </div>
-<!--END_SECTION:Explain-->
-<!--START_SECTION:badgesTagsLang-->
+
 <div id="techskill" align="center">
     <details open>
         <summary><h2>🧑‍💻 Technical Skills 🧑‍💻</h2></summary>
@@ -33,8 +30,7 @@
         </p>
     </details>
 </div>
-<!--END_SECTION:badgesTagsLang-->
-<!--START_SECTION:Certificates-->
+
 <div id="certificates_div" align="center">
     <details open>
         <summary align="center"><h2 align="center">🎓 Certificates & Trainings 🎓</h2></summary>
@@ -45,8 +41,7 @@
         </p>
     </details>
 </div>
-<!--END_SECTION:Certificates-->
-<!--START_SECTION:reach-->
+
 <div id="reach_me">
     <details open>
         <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
@@ -57,8 +52,7 @@
         </ul>
     </details>
 </div>
-<!--END_SECTION:reach-->
-<!--START_SECTION:Statistics-->
+
 <div id="statistics_div" align="center">
     <details open>
         <summary align="center"><h2 align="center">📊 Statistics 📊</h2></summary>
@@ -66,8 +60,7 @@
             <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0rDa4aN919&layout=compact" alt="D0rDa4aN919's github stats"></a>
     </details>
 </div>
-<!--END_SECTION:Statistics-->
-<!--START_SECTION:Blog-->
+
 <div id="blog">
     <details open>
         <summary align="center"><h2 align="center">📖 Blog Posts 📖</h2></summary>
@@ -77,19 +70,12 @@
 </div>
 
 
-
-<!--START_SECTION:blog-->
 #### 📖 My latest blog posts (from my [medium.com/@dordaha491n blog](https://medium.com/@dordaha491n))
 {{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
-<!--END_SECTION:blog-->
 
 
-
-
-<!--END_SECTION:Blog-->
-<!--START_SECTION:currently-->
 <div id="working_repositories" >
     <details open>
         <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
@@ -99,24 +85,21 @@
         </b></p>
     </details>
 </div>
-<!--END_SECTION:currently-->
-<!--START_SECTION:recently-->
+
 <div id="My_Repositories">
     <details open>
         <summary align="center"><h2 align="center">👨‍💻 My Repositories 👨‍💻</h2></summary>
         <p id="MyRepositories"><b>I created recently those repositories:</b></p>
     </details>
 </div>
-<!--END_SECTION:recently-->
-<!--START_SECTION:repositories-->
+
 <div id="last_repositories">
     <details open>
         <summary align="center"><h2 align="center">⭐ Latest Repositories ⭐</h2></summary>
         <p id="lastrepositories"><b>Latest repositories I starred:</b></p>
     </details>
 </div>
-<!--END_SECTION:repositories-->
-<!--START_SECTION:askMe-->
+
 <div id="ask_me">
     <details open>
         <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
@@ -128,17 +111,4 @@
         </ul>
     </details>
 </div>
-<!--END_SECTION:askMe-->
-
-<!--START_SECTION:Latest-->
-<!-- need to add -->
-<!-- <div id="contributed_div" align="center">
-    <h2 align="center">🚀 Latest Releases 🚀</h2>
-    <p id="contributed">Latest releases I contributed to:</p>
-</div> -->
-<!--END_SECTION:Latest-->
-
-
-{{comment "<!--START_SECTION:badges-->"}}
-{{comment "<!--END_SECTION:badges-->"}}
 
