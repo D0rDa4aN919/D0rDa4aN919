@@ -1,41 +1,34 @@
 name: Update README
 
 on:
-  workflow_dispatch:      # option to run manually
-  push:                   # run on each push
+  push:
   schedule:
-    - cron: "0 0 * * */1" # runs at 0:00 UTC each day
+    - cron: "* * * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4.1.0
+      - uses: actions/checkout@master
 
-      - uses: jetzlstorfer/readme-scribe@master
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: actions/upload-artifact@v1
+        with:
+          name: README.md
+          path: README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
-          branch: main
+          branch: master
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
-
-  update-badges:
-    name: Update Readme with badges
-    runs-on: ubuntu-latest
-    needs: markscribe
-    steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0
-        with:
-          CREDLY_SORT: POPULAR
