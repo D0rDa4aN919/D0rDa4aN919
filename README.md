@@ -64,13 +64,11 @@
 <h2 align="center">📖 Blog Posts 📖</h2>
 
 
-#### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
-- [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (9 months ago)
-- [Automating &amp; evaluating load testing with Locust and Keptn](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed?source=rss-14f716fb26f2------2) (2 years ago)
-- [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (2 years ago)
-- [Part-2: Evaluating Application Resiliency with Keptn and LitmusChaos (use-case and demo)](https://medium.com/keptn/part-2-evaluating-application-resiliency-with-keptn-and-litmuschaos-use-case-and-demo-f43b264a2294?source=rss-14f716fb26f2------2) (2 years ago)
-- [Keptn — simplifying cloud-native app delivery &amp; operations — a review on our journey so far](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662?source=rss-14f716fb26f2------2) (2 years ago)
-
+#### 📖 My latest blog posts (from my @dordaha491n blog](https://medium.com/@dordaha491n))
+- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (1 month ago)
+- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (1 month ago)
+- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 months ago)
+- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (2 months ago)
 
 <div id="working_repositories" >
     <details open>
@@ -82,12 +80,17 @@
     </details>
 </div>
 
-<div id="My_Repositories">
-    <details open>
-        <summary align="center"><h2 align="center">👨‍💻 My Repositories 👨‍💻</h2></summary>
-        <p id="MyRepositories"><b>I created recently those repositories:</b></p>
-    </details>
-</div>
+<h2 align="center">👨‍💻 My Repositories 👨‍💻</h2>
+
+
+#### I created recently those repositories:
+
+- [D0rDa4aN919/website](https://github.com/D0rDa4aN919/website) -  (1 week ago)
+- [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) -  (1 week ago)
+- [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) -  (2 weeks ago)
+- [D0rDa4aN919/TelegramBot_C2C_Py](https://github.com/D0rDa4aN919/TelegramBot_C2C_Py) - Telegram bot C2 POC that use the chat of telegram group as the C2 interface. The bots as agents that execute the command and send the result. (1 month ago)
+- [D0rDa4aN919/PY_Telegram_keylogger](https://github.com/D0rDa4aN919/PY_Telegram_keylogger) - A POC script that need to be run in the target side, and use the Telegram bot as middle men between the attacker and the target machine and send the key strokes to the chat id pre added. (1 month ago)
+
 
 <div id="last_repositories">
     <details open>
