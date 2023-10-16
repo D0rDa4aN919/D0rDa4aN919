@@ -35,9 +35,9 @@
     <details open>
         <summary align="center"><h2 align="center">🎓 Certificates & Trainings 🎓</h2></summary>
         <p id="certificates">
-            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/badges/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
-            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/badges/HACKERU.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
-            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="assets/badges/TAPT.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
+            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="/assets/badges/ceh_logo.png" alt="Certified Ethical Hacker (CEH)" width="90px" height="90px"></a>
+            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="/assets/badges/HACKERU.png" alt="HackerU Theoretical Certificate" width="90px" height="90px"></a>
+            <a href="https://aspen.eccouncil.org/Home" target="_blank"><img src="/assets/badges/TAPT.png" alt="ThriveDx Arena Penetration Tester Practical Certificate (TAPT)" width="90px" height="90px"></a>
         </p>
     </details>
 </div>
@@ -92,12 +92,16 @@
 - [D0rDa4aN919/PY_Telegram_keylogger](https://github.com/D0rDa4aN919/PY_Telegram_keylogger) - A POC script that need to be run in the target side, and use the Telegram bot as middle men between the attacker and the target machine and send the key strokes to the chat id pre added. (1 month ago)
 
 
-<div id="last_repositories">
-    <details open>
-        <summary align="center"><h2 align="center">⭐ Latest Repositories ⭐</h2></summary>
-        <p id="lastrepositories"><b>Latest repositories I starred:</b></p>
-    </details>
-</div>
+<h2 align="center">⭐ Latest Repositories ⭐</h2>
+
+#### Latest repositories I starred:
+
+- [AyalX/Instagram-Lookup](https://github.com/AyalX/Instagram-Lookup) - This script allows you to search for an Instagram profile using user ID or retrieve a profile&#39;s ID by username. It utilizes the Instagram API to retrieve profile information based on the provided input. - 46 stars
+- [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 3830 stars
+- [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1011 stars
+- [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 170 stars
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 14935 stars
+
 
 <div id="ask_me">
     <details open>
