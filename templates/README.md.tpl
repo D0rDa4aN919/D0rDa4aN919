@@ -12,9 +12,8 @@
 <div id="about_me" align="center">
     <details open>
     <summary><h2 align="center">👉 About Me 👈</h2></summary>
-    <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ cybersecurity lecturer, penetration tester, and SOC analyst ✨</b>. 
-    Even though I'm not actively offering security consulting or penetration testing services, I'm connected to TDX as a dedicated cyber security lecturer. In this position, I share my knowledge to students while emphasizing  the significance of digital security. 
-    Even though I'm not actively providing security services for a business right now, I continue to be passionate about cybersecurity by developing new POCs. My area of expertise is educating others about the most recent trends, cyber security methodologies, tools, attack vectors, and best practices, assisting to create a more secure and resilient digital environment and upgrade the tomorrows workers.
+    <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ Penetration Tester, SOC Analyst, and Lecture ✨</b>. 
+    Developing new POCs and tools for the cyber-security field for secure and resilient digital environment and education porpuses.
     </p>
     </details>
 </div>
@@ -47,8 +46,8 @@
         <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
         <p><b>You can reach me at:</b></p>
         <ul>
-            <il>LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
-            <il>X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
+            <il> LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></il><br>
+            <il> X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></il>
         </ul>
     </details>
 </div>
