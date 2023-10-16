@@ -84,7 +84,6 @@
 - Title: {{.title}}
 - URL: {{.link}}
 - Published: {{humanize .pubDate}}{{end}}
-
 <!--END_SECTION:blog-->
 
 
