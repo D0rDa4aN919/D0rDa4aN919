@@ -65,18 +65,18 @@
     <details open>
         <summary align="center"><h2 align="center">📖 Blog Posts 📖</h2></summary>
         <!-- https://medium.com/@dordaha491n/feed -->
-        <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a></b></p><br>
-        {{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
-        <il>{{ .Title }}: ({{ humanize .PublishedAt }}) - <a href="({{ .URL }})">Link</a></il>
-        {{- end }}
-        
+        <p id="my_blog"><b>My latest blog posts from <a href="https://medium.com/@dordaha491n" target="_blank">medium</a></b></p><br>        
     </details>    
 </div>
 
 
 #### 📖 My latest blog posts (from my dordaha491n blog](https://medium.com/@dordaha491n))
 
+<h2 align="center">📖 Blog Posts 📖</h2>
 
+{{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
+- {{ .Title }}: ({{ humanize .PublishedAt }}) - ({{ .URL }})
+        {{- end }}
 
 
 <div id="working_repositories" >
