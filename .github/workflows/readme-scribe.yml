@@ -22,7 +22,8 @@ jobs:
           path: README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5  # Use the latest version
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
         with:
           commit_message: Update generated README
           commit_user_name: readme-scribe 🤖
