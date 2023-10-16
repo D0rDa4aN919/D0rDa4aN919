@@ -12,8 +12,8 @@
 <div id="about_me" align="center">
     <details open>
     <summary><h2 align="center">👉 About Me 👈</h2></summary>
-    <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ Penetration Tester, SOC Analyst, and Lecture ✨</b>. 
-    Developing new POCs and tools for the cyber-security field for secure and resilient digital environment and education porpuses.
+    <p id="badgesTagsLang">I'm Dor, a motivated <b>✨ Penetration Tester, SOC Analyst, and Lecture ✨</b>.<br>
+    I am developing new POCs and tools for the cyber-security field for secure and resilient digital environment and education porpuses.
     </p>
     </details>
 </div>
@@ -46,7 +46,7 @@
         <summary align="center"><h2 align="center">📫 Reach Me 📫</h2></summary>
         <p><b>You can reach me at:</b>
         <ul>
-            <li> LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></li><br>
+            <li> LinkedIn: <a href="https://www.linkedin.com/in/dor-dahan-b44655154/" target="_blank">Dor Dahan</a></li>
             <li> X (formerly Twitter): <a href="https://twitter.com/d0r_dhn92836" target="_blank">@d0r_dhn92836</a></li>
         </ul>
         </p>
@@ -61,14 +61,6 @@
     </details>
 </div>
 
-<h2 align="center">📖 Blog Posts 📖</h2>
-
-
-#### 📖 My latest blog posts (from my @dordaha491n blog](https://medium.com/@dordaha491n))
-{{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
-
 <div id="working_repositories" >
     <details open>
         <summary align="center"><h2 align="center">👷 Working Projects 👷</h2></summary>
@@ -78,6 +70,29 @@
         </b></p>
     </details>
 </div>
+
+
+<div id="ask_me">
+    <details open>
+        <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
+        <p id="askMe"><b>You can ask me everything, like:</b></p>
+        <ul>
+            <li>About Cyber-Security Python: How to use python for Cyber-Secuirty.</li>
+            <li>About Python: Using OOP in python.</li>
+            <li>About Cyber-Security: what are the preferd protication based on the object.</li>
+        </ul>
+    </details>
+</div>
+
+
+<h2 align="center">📖 Blog Posts 📖</h2>
+
+
+#### 📖 My latest blog posts (from my @dordaha491n blog](https://medium.com/@dordaha491n))
+{{- range rss "https://medium.com/@dordaha491n/feed" 5 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
 
 <h2 align="center">👨‍💻 My Repositories 👨‍💻</h2>
 
@@ -94,17 +109,3 @@
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
 {{- end}}
-
-
-<div id="ask_me">
-    <details open>
-        <summary align="center"><h2 align="center">💬 Ask Me 💬</h2></summary>
-        <p id="askMe"><b>You can ask me everything, like:</b></p>
-        <ul>
-            <li>About Cyber-Security Python: How to use python for Cyber-Secuirty.</li>
-            <li>About Python: Using OOP in python.</li>
-            <li>About Cyber-Security: what are the preferd protication based on the object.</li>
-        </ul>
-    </details>
-</div>
-
