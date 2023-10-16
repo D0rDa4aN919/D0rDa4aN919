@@ -11,9 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: D0rDa4aN919/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+      - uses: muesli/readme-scribe@master
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
