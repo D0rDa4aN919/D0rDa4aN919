@@ -157,4 +157,4 @@
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4011 stars
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1025 stars
 - [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 205 stars
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 16210 stars
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 16215 stars
