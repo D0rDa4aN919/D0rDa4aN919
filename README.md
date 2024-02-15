@@ -146,7 +146,7 @@
 - [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) - A Python GUI application allows users to add a watermark to an image. (4 months ago)
 - [D0rDa4aN919/TelegramBot_C2C_Py](https://github.com/D0rDa4aN919/TelegramBot_C2C_Py) - Telegram bot C2 POC that use the chat of telegram group as the C2 interface. The bots as agents that execute the command and send the result. (5 months ago)
 - [D0rDa4aN919/PY_Telegram_keylogger](https://github.com/D0rDa4aN919/PY_Telegram_keylogger) - A POC script that need to be run in the target side, and use the Telegram bot as middle men between the attacker and the target machine and send the key strokes to the chat id pre added. (5 months ago)
-- [D0rDa4aN919/Py-JSON-Dropper](https://github.com/D0rDa4aN919/Py-JSON-Dropper) - A python POC malware dropper in the format of JSON and API. (5 months ago)
+- [D0rDa4aN919/Py-JSON-Dropper](https://github.com/D0rDa4aN919/Py-JSON-Dropper) - A python POC malware dropper in the format of JSON and API. (6 months ago)
 
 
 <h2 align="center">⭐ Latest Repositories ⭐</h2>
@@ -156,5 +156,5 @@
 - [AyalX/Instagram-Lookup](https://github.com/AyalX/Instagram-Lookup) - This script allows you to search for an Instagram profile using user ID or retrieve a profile&#39;s ID by username. It utilizes the Instagram API to retrieve profile information based on the provided input. - 52 stars
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4045 stars
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1031 stars
-- [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 208 stars
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 16401 stars
+- [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 209 stars
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 16417 stars
