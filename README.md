@@ -153,8 +153,8 @@
 
 #### Latest repositories I starred:
 
-- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 502 stars
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 514 stars
 - [AyalX/Instagram-Lookup](https://github.com/AyalX/Instagram-Lookup) - This script allows you to search for an Instagram profile using user ID or retrieve a profile&#39;s ID by username. It utilizes the Instagram API to retrieve profile information based on the provided input. - 57 stars
-- [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4227 stars
+- [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4228 stars
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1056 stars
 - [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 223 stars
