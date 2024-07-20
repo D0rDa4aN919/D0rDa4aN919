@@ -131,8 +131,8 @@
 
 
 #### 📖 My latest blog posts [(from my @dordaha491n blog)](https://medium.com/@dordaha491n)
-- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (10 months ago)
-- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (10 months ago)
+- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (11 months ago)
+- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (11 months ago)
 - [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (11 months ago)
 - [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (11 months ago)
 
@@ -146,14 +146,14 @@
 - [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) - Speedy Typing McQueen is a simple typing speed test application built with Python and Tkinter. (9 months ago)
 - [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) - A Python GUI application allows users to add a watermark to an image. (9 months ago)
 - [D0rDa4aN919/TelegramBot_C2C_Py](https://github.com/D0rDa4aN919/TelegramBot_C2C_Py) - Telegram bot C2 POC that use the chat of telegram group as the C2 interface. The bots as agents that execute the command and send the result. (10 months ago)
-- [D0rDa4aN919/PY_Telegram_keylogger](https://github.com/D0rDa4aN919/PY_Telegram_keylogger) - A POC script that need to be run in the target side, and use the Telegram bot as middle men between the attacker and the target machine and send the key strokes to the chat id pre added. (10 months ago)
+- [D0rDa4aN919/PY_Telegram_keylogger](https://github.com/D0rDa4aN919/PY_Telegram_keylogger) - A POC script that need to be run in the target side, and use the Telegram bot as middle men between the attacker and the target machine and send the key strokes to the chat id pre added. (11 months ago)
 
 
 <h2 align="center">⭐ Latest Repositories ⭐</h2>
 
 #### Latest repositories I starred:
 
-- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 605 stars
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 620 stars
 - [AyalX/Instagram-Lookup](https://github.com/AyalX/Instagram-Lookup) - This script allows you to search for an Instagram profile using user ID or retrieve a profile&#39;s ID by username. It utilizes the Instagram API to retrieve profile information based on the provided input. - 57 stars
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4255 stars
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1061 stars
