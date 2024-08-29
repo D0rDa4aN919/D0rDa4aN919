@@ -142,8 +142,9 @@
 
 #### I created recently those repositories:
 
+- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (1 day ago)
 - [D0rDa4aN919/Resources-Cyber-Security-Repo](https://github.com/D0rDa4aN919/Resources-Cyber-Security-Repo) -  (1 month ago)
-- [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) - Speedy Typing McQueen is a simple typing speed test application built with Python and Tkinter. (10 months ago)
+- [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) - Speedy Typing McQueen is a simple typing speed test application built with Python and Tkinter. (11 months ago)
 - [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) - A Python GUI application allows users to add a watermark to an image. (11 months ago)
 - [D0rDa4aN919/TelegramBot_C2C_Py](https://github.com/D0rDa4aN919/TelegramBot_C2C_Py) - Telegram bot C2 POC that use the chat of telegram group as the C2 interface. The bots as agents that execute the command and send the result. (1 year ago)
 
@@ -152,8 +153,8 @@
 
 #### Latest repositories I starred:
 
-- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 804 stars
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 808 stars
 - [AyalX/Instagram-Lookup](https://github.com/AyalX/Instagram-Lookup) - This script allows you to search for an Instagram profile using user ID or retrieve a profile&#39;s ID by username. It utilizes the Instagram API to retrieve profile information based on the provided input. - 60 stars
-- [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4312 stars
+- [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4313 stars
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1069 stars
 - [JoelGMSec/HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell - 226 stars
