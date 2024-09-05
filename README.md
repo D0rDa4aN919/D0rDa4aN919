@@ -142,8 +142,8 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (2 days ago)
-- [D0rDa4aN919/Resources-Cyber-Security-Repo](https://github.com/D0rDa4aN919/Resources-Cyber-Security-Repo) -  (1 month ago)
+- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (3 days ago)
+- [D0rDa4aN919/Resources-Cyber-Security-Repo](https://github.com/D0rDa4aN919/Resources-Cyber-Security-Repo) -  (2 months ago)
 - [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) - Speedy Typing McQueen is a simple typing speed test application built with Python and Tkinter. (11 months ago)
 - [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) - A Python GUI application allows users to add a watermark to an image. (11 months ago)
 
@@ -152,8 +152,8 @@
 
 #### Latest repositories I starred:
 
-- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 820 stars
-- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 820 stars
+- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 822 stars
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 821 stars
 - [AyalX/Instagram-Lookup](https://github.com/AyalX/Instagram-Lookup) - This script allows you to search for an Instagram profile using user ID or retrieve a profile&#39;s ID by username. It utilizes the Instagram API to retrieve profile information based on the provided input. - 60 stars
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4323 stars
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1071 stars
