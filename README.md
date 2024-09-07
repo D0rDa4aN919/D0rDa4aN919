@@ -142,7 +142,7 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (4 days ago)
+- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (1 day ago)
 - [D0rDa4aN919/Resources-Cyber-Security-Repo](https://github.com/D0rDa4aN919/Resources-Cyber-Security-Repo) -  (2 months ago)
 - [D0rDa4aN919/Speedy-Typing-McQueen](https://github.com/D0rDa4aN919/Speedy-Typing-McQueen) - Speedy Typing McQueen is a simple typing speed test application built with Python and Tkinter. (11 months ago)
 - [D0rDa4aN919/Water_Py_Mark](https://github.com/D0rDa4aN919/Water_Py_Mark) - A Python GUI application allows users to add a watermark to an image. (11 months ago)
@@ -152,8 +152,8 @@
 
 #### Latest repositories I starred:
 
-- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 823 stars
-- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 824 stars
-- [AyalX/Instagram-Lookup](https://github.com/AyalX/Instagram-Lookup) - This script allows you to search for an Instagram profile using user ID or retrieve a profile&#39;s ID by username. It utilizes the Instagram API to retrieve profile information based on the provided input. - 60 stars
-- [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. - 4324 stars
-- [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework - 1070 stars
+- [Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917) - WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure - 2 stars
+- [Cappricio-Securities/shell-history-leaks](https://github.com/Cappricio-Securities/shell-history-leaks) - This tool is used to find shell history leaking  - 2 stars
+- [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) -  - 234 stars
+- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 824 stars
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 825 stars
