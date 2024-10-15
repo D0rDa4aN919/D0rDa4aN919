@@ -154,4 +154,4 @@
 - [Cappricio-Securities/shell-history-leaks](https://github.com/Cappricio-Securities/shell-history-leaks) - This tool is used to find shell history leaking  - 2 stars
 - [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) -  - 240 stars
 - [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 828 stars
-- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 876 stars
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data - 881 stars
