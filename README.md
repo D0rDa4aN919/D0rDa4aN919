@@ -142,7 +142,7 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (1 month ago)
+- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (2 months ago)
 - [D0rDa4aN919/Resources-Cyber-Security-Repo](https://github.com/D0rDa4aN919/Resources-Cyber-Security-Repo) -  (4 months ago)
 
 
@@ -154,4 +154,4 @@
 - [Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917) - WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure - 2 stars
 - [Cappricio-Securities/shell-history-leaks](https://github.com/Cappricio-Securities/shell-history-leaks) - This tool is used to find shell history leaking  - 2 stars
 - [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) -  - 244 stars
-- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 831 stars
+- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 832 stars
