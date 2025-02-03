@@ -133,8 +133,8 @@
 #### 📖 My latest blog posts [(from my @dordaha491n blog)](https://medium.com/@dordaha491n)
 - [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (1 year ago)
 - [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (1 year ago)
-- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (1 year ago)
-- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (1 year ago)
+- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 years ago)
+- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (2 years ago)
 
 
 <h2 align="center">👨‍💻 My Repositories 👨‍💻</h2>
@@ -142,7 +142,7 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (4 months ago)
+- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (5 months ago)
 - [D0rDa4aN919/Resources-Cyber-Security-Repo](https://github.com/D0rDa4aN919/Resources-Cyber-Security-Repo) -  (7 months ago)
 
 
@@ -154,4 +154,4 @@
 - [Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917) - WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure - 2 stars
 - [Cappricio-Securities/shell-history-leaks](https://github.com/Cappricio-Securities/shell-history-leaks) - This tool is used to find shell history leaking  - 2 stars
 - [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) -  - 259 stars
-- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 846 stars
+- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 847 stars
