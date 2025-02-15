@@ -131,8 +131,8 @@
 
 
 #### 📖 My latest blog posts [(from my @dordaha491n blog)](https://medium.com/@dordaha491n)
-- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (1 year ago)
-- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (1 year ago)
+- [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (2 years ago)
+- [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (2 years ago)
 - [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 years ago)
 - [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (2 years ago)
 
@@ -150,7 +150,7 @@
 
 #### Latest repositories I starred:
 
-- [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 731 stars
+- [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 732 stars
 - [Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917) - WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure - 2 stars
 - [Cappricio-Securities/shell-history-leaks](https://github.com/Cappricio-Securities/shell-history-leaks) - This tool is used to find shell history leaking  - 2 stars
 - [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) -  - 258 stars
