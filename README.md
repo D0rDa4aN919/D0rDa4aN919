@@ -142,7 +142,7 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (10 months ago)
+- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (11 months ago)
 
 
 <h2 align="center">⭐ Latest Repositories ⭐</h2>
@@ -152,5 +152,5 @@
 - [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 748 stars
 - [Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917) - WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure - 2 stars
 - [Cappricio-Securities/shell-history-leaks](https://github.com/Cappricio-Securities/shell-history-leaks) - This tool is used to find shell history leaking  - 2 stars
-- [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) -  - 275 stars
+- [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) -  - 276 stars
 - [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) - 871 stars
