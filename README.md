@@ -142,7 +142,6 @@
 
 #### I created recently those repositories:
 
-- [D0rDa4aN919/CVE-2023-22809-Exploiter](https://github.com/D0rDa4aN919/CVE-2023-22809-Exploiter) -  (1 year ago)
 
 
 <h2 align="center">⭐ Latest Repositories ⭐</h2>
