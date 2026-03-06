@@ -148,8 +148,8 @@
 
 #### Latest repositories I starred:
 
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 11795 stars
 - [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061) - Exploitation of CVE-2026-24061 - 197 stars
 - [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061) - PoC for popping a system shell against the LnvMSRIO.sys driver - 118 stars
-- [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 753 stars
+- [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 754 stars
 - [Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917) - WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure - 3 stars
-- [Cappricio-Securities/shell-history-leaks](https://github.com/Cappricio-Securities/shell-history-leaks) - This tool is used to find shell history leaking  - 2 stars
