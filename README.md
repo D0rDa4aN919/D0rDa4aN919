@@ -148,7 +148,7 @@
 
 #### Latest repositories I starred:
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 19999 stars
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 20310 stars
 - [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061) - Exploitation of CVE-2026-24061 - 198 stars
 - [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061) - PoC for popping a system shell against the LnvMSRIO.sys driver - 119 stars
 - [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 754 stars
