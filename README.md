@@ -148,8 +148,8 @@
 
 #### Latest repositories I starred:
 
-- [S1lkys/KslKatz](https://github.com/S1lkys/KslKatz) - Combining KslDump and GhostKatz to dump LSASS using no-vulnerability KslD.sys memory read to bypass PPL. Extracts MSV1_0 NT hashes and WDigest cleartext passwords (if enabled) from LSASS using a Microsoft-signed driver. - 139 stars
-- [airbus-cert/kerlab](https://github.com/airbus-cert/kerlab) - kerberos in rust for fun and profit - 66 stars
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 22543 stars
+- [airbus-cert/kerlab](https://github.com/airbus-cert/kerlab) - kerberos in rust for fun and profit - 67 stars
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 22673 stars
 - [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061) - Exploitation of CVE-2026-24061 - 200 stars
 - [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061) - PoC for popping a system shell against the LnvMSRIO.sys driver - 119 stars
+- [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 756 stars
