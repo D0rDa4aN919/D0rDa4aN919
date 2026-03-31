@@ -148,8 +148,8 @@
 
 #### Latest repositories I starred:
 
-- [airbus-cert/kerlab](https://github.com/airbus-cert/kerlab) - kerberos in rust for fun and profit - 67 stars
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 23070 stars
-- [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061) - Exploitation of CVE-2026-24061 - 200 stars
+- [akelaqe/CVE-2024-27348-HugeGraph-RCE](https://github.com/akelaqe/CVE-2024-27348-HugeGraph-RCE) -  - 1 stars
+- [airbus-cert/kerlab](https://github.com/airbus-cert/kerlab) - kerberos in rust for fun and profit - 68 stars
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 23219 stars
+- [SafeBreach-Labs/CVE-2026-24061](https://github.com/SafeBreach-Labs/CVE-2026-24061) - Exploitation of CVE-2026-24061 - 201 stars
 - [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061) - PoC for popping a system shell against the LnvMSRIO.sys driver - 119 stars
-- [Greenwolf/Spray](https://github.com/Greenwolf/Spray) - A Password Spraying tool for Active Directory Credentials by Jacob Wilkin(Greenwolf) - 756 stars
