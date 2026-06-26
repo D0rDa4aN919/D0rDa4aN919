@@ -152,4 +152,4 @@
 - [Hexastrike/PyrsistenceSniper](https://github.com/Hexastrike/PyrsistenceSniper) - We took PersistenceSniper, merged it with Python, and misspelled it on purpose. Meet PyrsistenceSniper. - 219 stars
 - [akelaqe/CVE-2024-27348-HugeGraph-RCE](https://github.com/akelaqe/CVE-2024-27348-HugeGraph-RCE) -  - 1 stars
 - [airbus-cert/kerlab](https://github.com/airbus-cert/kerlab) - kerberos in rust for fun and profit - 71 stars
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 28384 stars
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - 28711 stars
