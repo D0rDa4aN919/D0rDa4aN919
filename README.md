@@ -133,8 +133,8 @@
 #### 📖 My latest blog posts [(from my @dordaha491n blog)](https://medium.com/@dordaha491n)
 - [Covert Communication via Telegram Chat: A C2 Bot Interface](https://medium.com/@dordaha491n/covert-communication-via-telegram-chat-a-c2c-bot-interface-924effbc659e?source=rss-f059f1677bb7------2) (2 years ago)
 - [Understanding Command and Control (C2)](https://medium.com/@dordaha491n/understanding-command-and-control-c2c-57cdc78a5216?source=rss-f059f1677bb7------2) (2 years ago)
-- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (2 years ago)
-- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (2 years ago)
+- [The Stealthy Evolution of Malware Droppers: A Closer Look](https://medium.com/@dordaha491n/the-stealthy-evolution-of-malware-droppers-a-closer-look-cb269722d887?source=rss-f059f1677bb7------2) (3 years ago)
+- [Malware Dropping Techniques Using JSON Format: A Stealthy Approach](https://medium.com/@dordaha491n/malware-dropping-techniques-using-json-format-a-stealthy-approach-afbf8c00023d?source=rss-f059f1677bb7------2) (3 years ago)
 
 
 <h2 align="center">👨‍💻 My Repositories 👨‍💻</h2>
@@ -148,8 +148,8 @@
 
 #### Latest repositories I starred:
 
-- [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  - 666 stars
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF - 79464 stars
+- [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  - 674 stars
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF - 79485 stars
 - [entra1337/DirtyClone](https://github.com/entra1337/DirtyClone) - Python Proof of Concept for DirtyClone (CVE-2026-43503) - Linux kernel LPE via page-cache corruption - 22 stars
 - [0xHossam/UnCanny](https://github.com/0xHossam/UnCanny) - Another new coercion primitive with LPE - machine-account NTLM coercion from a non-admin user via Windows Store InstallService plugin resolution experiments - 87 stars
 - [Hexastrike/PyrsistenceSniper](https://github.com/Hexastrike/PyrsistenceSniper) - We took PersistenceSniper, merged it with Python, and misspelled it on purpose. Meet PyrsistenceSniper. - 241 stars
