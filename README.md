@@ -149,7 +149,7 @@
 #### Latest repositories I starred:
 
 - [securifera/CVE-2026-90817](https://github.com/securifera/CVE-2026-90817) - REDCap DataImport RCE - 1 stars
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. - 38500 stars
-- [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  - 731 stars
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF - 81561 stars
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. - 38508 stars
+- [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  - 732 stars
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF - 81634 stars
 - [entra1337/DirtyClone](https://github.com/entra1337/DirtyClone) - Python Proof of Concept for DirtyClone (CVE-2026-43503) - Linux kernel LPE via page-cache corruption - 26 stars
