@@ -150,6 +150,6 @@
 
 - [foldynl/QLog](https://github.com/foldynl/QLog) - Amateur radio logbook software - 365 stars
 - [securifera/CVE-2026-90817](https://github.com/securifera/CVE-2026-90817) - REDCap DataImport RCE - 1 stars
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. - 38812 stars
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. - 38823 stars
 - [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) -  - 751 stars
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF - 82357 stars
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF - 82382 stars
